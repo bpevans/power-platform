@@ -244,6 +244,11 @@ controls created using the HTML web resources
 with HTML5 to create UI components to visualize and interact with data.
 
 
+Regional Discovery service is deprecated
+----------------------------------
+
+Effective December 1, 2019, the [Regional Discovery](powerapps/developer/common-data-service/org-service/discovery-service) searvice is deprecated. It uses legacy protocols and authentication mechanisms and is being replaced with the [Global Discovery](powerapps/developer/common-data-service/webapi/discover-url-organization-web-api) service. Microsoft will continue to provide support, security and other critical updates to the legacy Regional Discovery service until December 1, 2020 but won't release any additional functionality beyond what has already been announced.
+
 
 ## Past deprecations
 
