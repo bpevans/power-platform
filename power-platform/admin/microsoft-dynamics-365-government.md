@@ -165,7 +165,7 @@ You use a different set of URLs to access Dynamics 365 US Government environment
 - GCC: *.crm9.dynamics.com
 - GCC High:  *.crm.microsoftdynamics.us
 
-### Discovery Service (Retirement announced)
+### Discovery Service (Deprecated)
 
 - GCC: https://disco.crm9.dynamics.com/XRMServices/2011/Discovery.svc
 - GCC High: https://disco.crm.microsoftdynamics.us/XRMServices/2011/Discovery.svc
@@ -173,10 +173,10 @@ You use a different set of URLs to access Dynamics 365 US Government environment
 ### Discovery WebAPI
 
 - GCC: 
-    - (Retirement announced) Discovery URL: https://disco.crm9.dynamics.com/api/discovery/v9.1/
+    - (Deprecated) Discovery URL: https://disco.crm9.dynamics.com/api/discovery/v9.1/
     - Global discovery URL: https://globaldisco.crm9.dynamics.com/api/discovery/v2.0/
 - GCC High: 
-    - (Retirement announced) Discovery URL: https://disco.crm.microsoftdynamics.us/api/discovery/v9.1/
+    - (Deprecated) Discovery URL: https://disco.crm.microsoftdynamics.us/api/discovery/v9.1/
     - Global discovery URL: https://globaldisco.crm.microsoftdynamics.us/api/discovery/v2.0
 
 ### Instance WebAPI
